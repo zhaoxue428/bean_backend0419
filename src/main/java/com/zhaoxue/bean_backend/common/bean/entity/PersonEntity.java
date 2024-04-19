@@ -1,4 +1,4 @@
-package com.zhaoxue.bean_backend.common.bean.repository;
+package com.zhaoxue.bean_backend.common.bean.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

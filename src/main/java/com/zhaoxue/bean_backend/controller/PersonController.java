@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.zhaoxue.bean_backend.common.bean.repository.PersonEntity;
+import com.zhaoxue.bean_backend.common.bean.entity.PersonEntity;
 import com.zhaoxue.bean_backend.common.service.PersonService;
 
 @RestController
